@@ -1,6 +1,8 @@
 Clint
 =====
 
+#### You probably shouldn't try using this in production, but, if you still find it useful for dev and easier than raw Plug, then:
+
 [![Build Status](https://travis-ci.org/lpil/clint.svg?branch=master)](https://travis-ci.org/lpil/clint)
 [![Hex version](https://img.shields.io/hexpm/v/clint.svg "Hex version")](https://hex.pm/packages/clint)
 [![Hex downloads](https://img.shields.io/hexpm/dt/clint.svg "Hex downloads")](https://hex.pm/packages/clint)
